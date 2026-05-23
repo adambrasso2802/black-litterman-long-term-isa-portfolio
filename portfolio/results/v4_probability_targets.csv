@@ -1,0 +1,8 @@
+variant,P(>=£1m),P(>=£2m),P(>=£5m)
+"Status quo (£1,600/m, all-ISA)",0.9738,0.7162,0.1439
+All-ISA (career-aware),0.9997,0.9776,0.4976
+All-ISA + house,0.9997,0.9731,0.4459
+Mod 2 — LISA priority,0.9997,0.9752,0.4654
+Mod 3 — SIPP-max (career),0.9999,0.9957,0.7469
+Mod 4 — LISA + SIPP,0.9999,0.9907,0.6551
+Mod 5 — Lifecycle optimum,0.9999,0.9946,0.7274
