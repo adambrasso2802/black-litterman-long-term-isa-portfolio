@@ -1,0 +1,12 @@
+ticker,yahoo,ccy,desc
+VWRP,ACWI,USD,MSCI ACWI (global equity)
+VUSA,^GSPC,USD,S&P 500 (US large cap)
+VUKE,^FTSE,GBP,FTSE 100 (UK large cap)
+VFEM,EEM,USD,iShares MSCI EM
+WLDS,IWM,USD,iShares Russell 2000 (small cap)
+IWVL,IVE,USD,iShares S&P 500 Value
+IWQU,IVW,USD,iShares S&P 500 Growth (quality/growth proxy)
+INFR,IGF,USD,iShares Global Infrastructure
+AGGG,AGG,USD,iShares US Aggregate Bond
+IGLS,SHY,USD,iShares 1-3y Treasury (cash proxy)
+SGLN,GLD,USD,SPDR Gold Shares
